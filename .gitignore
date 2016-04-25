@@ -10,3 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+#maven缓存文件
+target/
+#eclipse缓存文件
+.classpath
+.project
+.settings/
+#svn缓存文件
+.svn
