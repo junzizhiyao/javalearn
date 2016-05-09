@@ -18,3 +18,4 @@ target/
 .settings/
 #svn缓存文件
 .svn
+/bin/
